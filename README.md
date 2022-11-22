@@ -1,0 +1,2 @@
+# python-tetelek
+Python tételek.
